@@ -1,0 +1,8 @@
+superuser can create the poll
+superuser can add people to the poll
+
+without loggging
+- people can vote
+- 
+
+with superuser loggging
